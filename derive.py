@@ -1,5 +1,4 @@
-#Tony Yang 931001023
-#Xianglu Peng  930990871
+#Collaborate With Xianglu
 
 #! /usr/bin/python3
 import string
